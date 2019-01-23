@@ -1,0 +1,6 @@
+torch==1.0.0
+numpy
+jupyter
+tqdm
+matplotlib
+scipy
